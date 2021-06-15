@@ -20,7 +20,7 @@
 ![Data Analysis](https://github.com/jsanon01/aws_services/blob/main/images/data_analysis.png)
 
 
-## Advantages of Virtualization
+# Advantages of Virtualization
 
 - Server space reduction | data center cost reduction
 - Cost reduction through efficient server usage
@@ -33,4 +33,5 @@
 ![Virtualization Target](https://github.com/jsanon01/aws_services/blob/main/images/target.png)
 
 ![Container](https://github.com/jsanon01/aws_services/blob/main/images/container.png)
+
 ### Virtualization improves efficiency and flexibility for using infrastructure.
