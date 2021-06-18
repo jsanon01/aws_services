@@ -35,3 +35,7 @@
 ![Container](https://github.com/jsanon01/aws_services/blob/main/images/container.png)
 
 ### Virtualization improves efficiency and flexibility for using infrastructure.
+
+# 2-Tier Architecture 
+
+![2-Tier](https://github.com/jsanon01/aws_services/blob/main/images/2-Tier.png)
